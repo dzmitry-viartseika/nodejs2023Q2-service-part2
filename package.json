@@ -1,10 +1,10 @@
 {
   "name": "home-library",
   "version": "0.0.1",
-  "description": "Home Library Service: RS School NodeJS 2023 Q2 - Week 6 Task",
-  "author": "Sergey Koksharov <gentoosiastic@gmail.com>",
+  "description": "Home Library Service: RS School NodeJS 2023 Q2 - Task",
+  "author": "Dzmitry Viartseika",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "Wertey",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
